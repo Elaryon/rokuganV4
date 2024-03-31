@@ -1,6 +1,7 @@
 {
   "title": "Rokugan",
   "id": "rokugan",
+  "manifest":"https://github.com/Elaryon/rokuganV4/main/world.json",
   "system": "l5r4",
   "joinTheme": "default",
   "coreVersion": "11.315",
