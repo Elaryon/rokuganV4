@@ -1,0 +1,29 @@
+{
+  "title": "Rokugan",
+  "id": "rokugan",
+  "system": "l5r4",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "0.8.9",
+  "lastPlayed": "Thu Mar 21 2024 21:48:22 GMT+0100 (heure normale d’Europe centrale)",
+  "playtime": 384,
+  "packs": [
+    {
+      "label": "Compétences",
+      "type": "Item",
+      "name": "competences",
+      "path": "packs/competences",
+      "system": "l5r4",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "background": "worlds/rokugan/scenes/Imperial_Palace_(TCG).jpg"
+}
